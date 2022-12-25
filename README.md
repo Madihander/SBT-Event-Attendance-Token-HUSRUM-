@@ -28,7 +28,7 @@ The NFT-SBT token itself has properties: year, name, event and city.
 
 ==SBT token and its principles implemented==  
 
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-1.png))
+([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-1.png))
 ![[Ver-2.png]]
 
 ##### 2 Step - Checking the availability of the token
