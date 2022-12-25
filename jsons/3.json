@@ -1,0 +1,23 @@
+{
+  "name": "Husrum",
+  "description": "some image",
+  "image":"ipfs://QmPaQV5KwPhq7zK4CiV4SBBq4xcyjtgu6DBKDpjFhKtPok",
+  "attributes": [
+    {
+      "trait_type": "item0",
+      "value": "2022",
+    },
+    {
+      "trait-type" : "item1",
+      "value": "BNB-Chain x AITU"
+    },
+    {
+      "trait-type" : "item2",
+      "value": "Astana Hub"
+    },
+    {
+      "trait-type" : "item3",
+      "value": "Astana"
+    }
+  ]
+}
