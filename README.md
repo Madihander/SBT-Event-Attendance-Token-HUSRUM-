@@ -27,7 +27,8 @@ The NFT-SBT token itself has properties: year, name, event and city.
 (They used to try to store the hash, but for some reason the properties were not saved when the NFT-SBT was transferred to the participant. And the token was empty).  
 
 ==SBT token and its principles implemented==  
-![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-1.png)
+![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/Ver-1.png)
+![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/Ver-2.png)
 
 ##### 2 Step - Checking the availability of the token
 
@@ -48,4 +49,6 @@ All data the prover gives (private data), the checker can not know if it is true
 The proving person needs to know how the merkle tree is built to prove that he has an "event" token.
 
 ==Zero-knowledge proof protocol and its principles - implemented.==
-![[SBT-1.png]]![[SBT-2.png]]![[SBT-3.png]]
+![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-1.png)
+![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-2.png)
+![Image alt](https://github.com/Madihander/SBT-Event-Attendance-Token-HUSRUM-/blob/main/Image%20for%20ReadME/SBT-3.png)
