@@ -1670,7 +1670,7 @@ abstract contract ERC721URIStorage is ERC721 {
 
 pragma solidity ^0.8.9;
 
-contract Mannheim is ERC721, ERC721URIStorage, Ownable {
+contract HUSRUM is ERC721, ERC721URIStorage, Ownable {
     using Counters for Counters.Counter;
 
     Counters.Counter private _tokenIdCounter;
@@ -1678,7 +1678,7 @@ contract Mannheim is ERC721, ERC721URIStorage, Ownable {
     event Revoke(address indexed to, uint256 indexed tokenId);
 
 
-    constructor() ERC721("Husrum", "HSM") {}
+    constructor() ERC721("HUSRUM", "HSM") {}
 
     function safeMint(address to, string memory uri) public onlyOwner {
         uint256 tokenId = _tokenIdCounter.current();
